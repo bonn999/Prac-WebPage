@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    overflow: hidden;
+}
+
+body, html{
+    font-family: sans-serif;
+    background-image: url(/img/bgA.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.TxtParent{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: 24%;
+}
+
+h1{
+    display: block;
+    max-width: 100%;
+    position: relative;
+
+    block-size: 120px;
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+}
+
+.TxtParent2{
+    position: absolute;
+    width: 100%;
+    text-align: center; 
+    bottom: 2%;
+}
+
+h2{
+    display: block;
+    max-width: 40%;
+    position: relative;
+    block-size: 120px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    left: 5%;
+}
+
+p{
+    display: block;
+    max-width: 40%;
+    position: relative;
+    left: 5%;
+    block-size: 120px;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.TxtParent3{
+    position: absolute;
+    width: 100%;
+    text-align: center; 
+    bottom: -20px;
+}
+
+.TxtParent4{
+    position: absolute;
+    width: 100%;
+    text-align: center; 
+    bottom: -13px;
+    
+}
+
+.scan1{
+    display: block;
+    max-width: 40%;
+    position: relative;
+    left: 60%;
+    block-size: 120px;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.scan2{
+    display: block;
+    max-width: 40%;
+    position: relative;
+    left: 60%;
+    block-size: 120px;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.TxtParent5{
+    position: absolute;
+    width: 100%;
+    text-align: center; 
+    bottom: -40px;
+    
+}
+
+.final{
+    display: block;
+    position: relative;
+}
+
+.image{
+    display: block;
+    position: absolute;
+    max-width: 100%;
+    right: 32%;
+    bottom: 2%;
+}
